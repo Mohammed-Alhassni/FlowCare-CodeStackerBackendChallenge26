@@ -1,4 +1,4 @@
-package com.example.FlowCare_CodeStackerBackendChallenge26;
+package FlowCareBackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
